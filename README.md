@@ -3,5 +3,5 @@
 
 we will learn all commands of git
 
-this is scond chance that i am doing the readme file.
+this is scond chance that i am doing the readme file
 
